@@ -465,7 +465,7 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
         "email_prefix": "Account (leave empty for batch generation)",
         "email_domain": "Domain",
         "password": "Password",
-        "password_placeholder": "Leave empty to use email as password",
+        "password_placeholder": "Leave empty to generate a random password per account; tick \"export CSV\" to receive them",
         "expire_time": "Expire Time",
         "expire_time_placeholder": "Select user expire date, leave empty for permanent",
         "permanent": "Permanent",

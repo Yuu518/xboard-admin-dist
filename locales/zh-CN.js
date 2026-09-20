@@ -465,7 +465,7 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
         "email_prefix": "帐号(批量生成请留空)",
         "email_domain": "域",
         "password": "密码",
-        "password_placeholder": "留空则密码与邮件相同",
+        "password_placeholder": "留空则为每个账号生成随机密码，需勾选导出 CSV 获取",
         "expire_time": "到期时间",
         "expire_time_placeholder": "请选择用户到期日期，留空为长期有效",
         "permanent": "长期有效",
