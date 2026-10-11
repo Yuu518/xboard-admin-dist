@@ -2518,6 +2518,27 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
           "allow_insecure": "Allow Insecure"
         }
       },
+      "snell": {
+        "version": {
+          "label": "Protocol Version",
+          "placeholder": "Select protocol version"
+        },
+        "reuse": {
+          "label": "Connection Reuse"
+        },
+        "obfs_mode": {
+          "label": "Obfuscation Mode",
+          "placeholder": "Select obfuscation mode"
+        },
+        "obfs_host": {
+          "label": "Obfuscation Host",
+          "placeholder": "Defaults to bing.com when empty"
+        },
+        "mode": {
+          "label": "Traffic Shaping Mode",
+          "placeholder": "Select traffic shaping mode"
+        }
+      },
       "mieru": {
         "transport": {
           "label": "Transport Protocol",

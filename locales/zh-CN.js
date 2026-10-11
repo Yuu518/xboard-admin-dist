@@ -2513,6 +2513,27 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
           "allow_insecure": "允许不安全连接"
         }
       },
+      "snell": {
+        "version": {
+          "label": "协议版本",
+          "placeholder": "选择协议版本"
+        },
+        "reuse": {
+          "label": "连接复用"
+        },
+        "obfs_mode": {
+          "label": "混淆模式",
+          "placeholder": "选择混淆模式"
+        },
+        "obfs_host": {
+          "label": "混淆域名",
+          "placeholder": "留空默认为 bing.com"
+        },
+        "mode": {
+          "label": "流量整形模式",
+          "placeholder": "选择流量整形模式"
+        }
+      },
       "mieru": {
         "transport": {
           "label": "传输协议",
