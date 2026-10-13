@@ -2024,6 +2024,10 @@ window.XBOARD_TRANSLATIONS['ru-RU'] = {
       "success": "Успешно отправлено"
     },
     "dynamic_form": {
+      "listen_unix": {
+        "label": "Путь Unix-сокета",
+        "placeholder": "Оставьте пустым для прослушивания TCP-порта, например: /run/sing-box/node.sock"
+      },
       "multiplex": {
         "enabled": {
           "label": "Multiplex",

@@ -2099,6 +2099,10 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
       "success": "Submitted successfully"
     },
     "dynamic_form": {
+      "listen_unix": {
+        "label": "Unix Listen Path",
+        "placeholder": "Leave empty to listen on the TCP port, e.g. /run/sing-box/node.sock"
+      },
       "multiplex": {
         "enabled": {
           "label": "Multiplex",

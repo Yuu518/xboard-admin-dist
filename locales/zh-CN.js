@@ -2094,6 +2094,10 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
       "success": "提交成功"
     },
     "dynamic_form": {
+      "listen_unix": {
+        "label": "Unix 监听路径",
+        "placeholder": "留空则监听 TCP 端口，例如：/run/sing-box/node.sock"
+      },
       "multiplex": {
         "enabled": {
           "label": "多路复用 (Multiplex)",
